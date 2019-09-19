@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment>Update NeedIt State to close completed</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Needit123">e9f46948db8c00104d1a2706ca961946</flow>
+        <order>4.1</order>
+        <parent_ui_id>31708f91-668a-4fd1-b873-21daabacbf19</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:42</sys_created_on>
+        <sys_id>e8c6c290db4000104d1a2706ca96191d</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_79871_needit">d8e318f1db6b73004d1a2706ca961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">d8e318f1db6b73004d1a2706ca961978</sys_scope>
+        <sys_update_name>sys_hub_action_instance_e8c6c290db4000104d1a2706ca96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-19 18:10:52</sys_updated_on>
+        <ui_id>78960c76-a493-44a0-8aed-abd41fe218e6</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e8c6c290db4000104d1a2706ca96191d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e8c6c290db4000104d1a2706ca96191d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:43</sys_created_on>
+        <sys_id>20c6c290db4000104d1a2706ca961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:25:43</sys_updated_on>
+        <value>state=3</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e8c6c290db4000104d1a2706ca96191d</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:43</sys_created_on>
+        <sys_id>e0c6c290db4000104d1a2706ca961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:25:43</sys_updated_on>
+        <value>x_79871_needit_needit</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e8c6c290db4000104d1a2706ca96191d"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>e8c6c290db4000104d1a2706ca96191d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:43</sys_created_on>
+        <sys_id>e8c6c290db4000104d1a2706ca961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:25:43</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created_1.current}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>e8c6c290db4000104d1a2706ca96191d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:43</sys_created_on>
+        <sys_id>28c6c290db4000104d1a2706ca961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:25:43</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>e8c6c290db4000104d1a2706ca96191d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-18 15:25:43</sys_created_on>
+        <sys_id>acc6c290db4000104d1a2706ca961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-18 15:25:43</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Assignee Category" language="en" table="x_79871_needit_assignee_category">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Assignee Category</label>
+            <language>en</language>
+            <name>x_79871_needit_assignee_category</name>
+            <plural>Assignee Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-19 02:51:03</sys_created_on>
+            <sys_id>3b93ac6cdb8400104d1a2706ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assignee Category</sys_name>
+            <sys_package display_value="NeedIt" source="x_79871_needit">d8e318f1db6b73004d1a2706ca961978</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">d8e318f1db6b73004d1a2706ca961978</sys_scope>
+            <sys_update_name>sys_documentation_x_79871_needit_assignee_category__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-19 02:51:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

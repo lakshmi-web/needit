@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Steps to approve and fulfill NeedIt requests.</description>
+        <internal_name>needit_fulfillment</internal_name>
+        <label_cache>[{"name":"Created_1.current","label":"Trigger➛NeedIt Record","reference":"x_79871_needit_needit","reference_display":"NeedIt","type":"reference","base_type":"reference"},{"name":"b40b9c0a-3605-4345-aa5d-f6093a43ac11.table_name","label":"1➛NeedIt Table","reference":"x_79871_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name"},{"name":"b40b9c0a-3605-4345-aa5d-f6093a43ac11.record","label":"1➛NeedIt Record","reference":"x_79871_needit_needit","reference_display":"NeedIt","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot>f1fb2084db0c00104d1a2706ca9619db</latest_snapshot>
+        <master_snapshot>f1fb2084db0c00104d1a2706ca9619db</master_snapshot>
+        <name>NeedIt Fulfillment</name>
+        <outputs/>
+        <remote_trigger_id>82fb6084db0c00104d1a2706ca96191c</remote_trigger_id>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-16 18:24:42</sys_created_on>
+        <sys_id>878c5cf7dbb333004d1a2706ca961975</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>NeedIt Fulfillment</sys_name>
+        <sys_package display_value="NeedIt" source="x_79871_needit">d8e318f1db6b73004d1a2706ca961978</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">d8e318f1db6b73004d1a2706ca961978</sys_scope>
+        <sys_update_name>sys_hub_flow_878c5cf7dbb333004d1a2706ca961975</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-17 17:56:07</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=878c5cf7dbb333004d1a2706ca961975"/>
+    <sys_variable_value action="delete_multiple" query="document_key=878c5cf7dbb333004d1a2706ca961975"/>
+</record_update>
